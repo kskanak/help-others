@@ -2,10 +2,6 @@ body {
   font-family: "Roboto", sans-serif;
   margin: 0;
 }
-.container {
-  max-width: 80%;
-  margin: 0 auto;
-}
 .header-banner {
   background-image: url(images/banner.jpg);
   background-repeat: no-repeat;
@@ -38,8 +34,6 @@ body {
   font-weight: 700;
   margin-top: 10px;
   display: inline-block;
-}
-.donate-section {
 }
 .donate-title {
   text-align: center;
@@ -92,8 +86,6 @@ form {
 .donate-btn {
   text-align: center;
   margin-bottom: 80px;
-}
-.donate-plan-section {
 }
 .donate-plan-title {
   text-align: center;
@@ -186,7 +178,7 @@ footer {
   background-color: #0b0d17;
 }
 footer h4 {
-  color: #ff5959;
+  color: #9f293d;
   font-size: 22px;
   padding-top: 50px;
 }
