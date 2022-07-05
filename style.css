@@ -82,7 +82,7 @@ body {
 form {
   text-align: center;
 }
-input {
+.text {
   border: none;
   border-bottom: 1px solid #00000063;
   padding: 5px 250px;
@@ -136,4 +136,62 @@ input {
 }
 .three {
   background-color: #3e838c1c;
+}
+.update-section {
+  margin-bottom: 70px;
+}
+.update-title {
+  text-align: center;
+}
+.update-title h2 {
+  font-size: 35px;
+  font-weight: 700;
+}
+.update-title p {
+  width: 40%;
+  margin: 0 auto;
+  color: #575757;
+  margin-bottom: 25px;
+}
+.form-section {
+  width: 50%;
+  margin: 0 auto;
+  background: #ff63471f;
+  padding: 80px 0;
+  margin-bottom: 20px;
+}
+.email {
+  padding: 8px;
+  background: #80808030;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 5px 0 0 5px;
+}
+.submit-btn {
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+  padding: 8px 20px;
+  border: none;
+  background: tomato;
+  border-radius: 0px 5px 5px 0;
+  position: relative;
+  left: -4px;
+  cursor: pointer;
+}
+footer {
+  text-align: center;
+  background-color: #0b0d17;
+}
+footer h4 {
+  color: #ff5959;
+  font-size: 22px;
+  padding-top: 50px;
+}
+footer small {
+  color: white;
+  margin-bottom: 50px;
+  display: inline-block;
 }
