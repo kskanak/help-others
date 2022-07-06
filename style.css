@@ -134,6 +134,31 @@ form {
 .three {
   background-color: #3e838c1c;
 }
+.join-our-community {
+}
+.community-title {
+  text-align: center;
+}
+.community-title h2 {
+  font-size: 35px;
+  font-weight: 700;
+}
+.community-title p {
+  width: 50%;
+  margin: 0 auto;
+  color: #575757;
+  margin-bottom: 25px;
+}
+.help-gallary {
+  display: flex;
+  justify-content: space-evenly;
+}
+.image {
+  margin: 0 5px;
+}
+.image img {
+  width: 100%;
+}
 .update-section {
   margin-bottom: 70px;
 }
