@@ -53,25 +53,30 @@ body {
 }
 .amount-part {
   display: flex;
-  width: 50%;
+  width: 46%;
   margin: 0 auto;
   margin-bottom: 20px;
 }
 .amount {
-  width: 18%;
   margin: 0 1%;
-  padding: 25px 0;
+}
+.amount a {
+  text-decoration: none;
+  display: inline-block;
   text-align: center;
+  padding: 25px;
   background-color: #5757570d;
   border-radius: 10px;
 }
 .amount h3 {
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 800;
+  color: black;
 }
 .color-bg {
   border: 1px solid tomato;
   background-color: #9f293d3b;
+  border-radius: 10px;
 }
 form {
   text-align: center;
